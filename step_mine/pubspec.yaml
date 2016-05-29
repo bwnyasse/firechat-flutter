@@ -1,0 +1,5 @@
+name: step_mine
+description: My flutter firechat codelab Implementation
+dependencies:
+  flutter:
+    path: ../../../flutter/packages/flutter
