@@ -1,5 +1,6 @@
 name: step_mine
 description: My flutter firechat codelab Implementation
+uses-material-design: true
 dependencies:
   flutter:
     path: ../../../flutter/packages/flutter
